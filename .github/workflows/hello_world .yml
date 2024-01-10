@@ -11,5 +11,4 @@ jobs:
             - name: Print Hello World
               run: echo "Hello World"
             - name: Print Name
-              run: echo "moorthi"
-              
+              run: echo "moort"
